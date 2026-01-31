@@ -16,3 +16,4 @@ MISES A JOUR A VENIR:
 - Creation et mise à disposition d'un lien vers mon linkedin
 - Refonte de la charte graphique avec un framework (probablement avec bootstrap)
 - Nouveau orojet dans la dernière section de mon tout premier site muni d'une API get et post, d'un framework bootstrap
+- Rendre mon site responsive aux différents types d'écrans
